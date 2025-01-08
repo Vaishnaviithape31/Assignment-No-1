@@ -1,0 +1,11 @@
+
+.styled-list {
+    font-size: 20px; 
+    color: darkblue; 
+    margin: 20px 0 20px 40px; 
+}
+
+
+.styled-list li {
+    margin-bottom: 10px; 
+}
